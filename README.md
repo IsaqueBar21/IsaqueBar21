@@ -1,9 +1,7 @@
-### Olá!! Eu sou o Isaque Barbosa 🙋‍♂️
+### Hello, welcome to my Github profile 🙋‍♂️
 
 
-- 👨‍💻 Estudando Técnico em Informática para Web - Full Stack
-- 🎮 Amante de Tecnologia
-- 👔 Empreendedor nas horas vagas
+My name is Isaque, I'm a web development student. I´m 22 years old and I live in the state of São Paulo, Brazil. I´m a technology lover and here on my profile you will find small projects developed with some languages that I have technical skills.
 
 <div align="center">
   <a href="https://github.com/IsaqueBar21">
