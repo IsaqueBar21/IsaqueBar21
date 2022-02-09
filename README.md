@@ -3,6 +3,18 @@
 
 My name is Isaque, I'm a web development student. I´m 22 years old and I live in the state of São Paulo, Brazil. I´m a technology lover and here on my profile you will find small projects developed with some languages that I have technical skills.
 
+### Knowledge:
+
+Programming Language: C (basic), Kotlin, Java, JavaScript;
+Markup Language : HTML5;
+Style Language: CSS3;
+Design Tool: Adobe XD, Figma;
+Complete Office Package;
+Social media;
+English Level - Basic.
+
+ ##
+ 
 <div align="center">
   <a href="https://github.com/IsaqueBar21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquebar21&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
