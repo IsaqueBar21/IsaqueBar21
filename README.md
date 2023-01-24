@@ -9,8 +9,7 @@ My name is Isaque, I'm a web development student. I´m 22 years old and I live i
 - Markup Language : HTML5;
 - Style Language: CSS3;
 - Design Tool: Adobe XD, Figma;
-- DataBase Language: SQL
-
+- SQL Language
 
  ##
  
@@ -31,7 +30,6 @@ My name is Isaque, I'm a web development student. I´m 22 years old and I live i
   ##
   
 <div>   
-  <a href="https://instagram.com/campodefutebol21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:isaquebarbosa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href = "mailto:isaquebarbosa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/isaque-barbosa2021dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
