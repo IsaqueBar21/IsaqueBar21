@@ -5,13 +5,12 @@ My name is Isaque, I'm a web development student. I´m 22 years old and I live i
 
 ### Knowledge:
 
-- Programming Language: C (basic), Kotlin, Java, JavaScript;
+- Programming Language: C | Java | JavaScript;
 - Markup Language : HTML5;
 - Style Language: CSS3;
 - Design Tool: Adobe XD, Figma;
-- Complete Office Package;
-- Social media;
-- English Level - Basic.
+- DataBase Language: SQL
+
 
  ##
  
