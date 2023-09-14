@@ -9,7 +9,6 @@ My name is Isaque, I'm a student from analysis and system development and Intern
 - Markup Language : HTML5;
 - Style Language: CSS3;
 - Design Tool: Figma;
-- 
  ##
  
 <div align="center">
