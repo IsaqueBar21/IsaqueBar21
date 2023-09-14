@@ -5,12 +5,11 @@ My name is Isaque, I'm a student from analysis and system development and Intern
 
 ### Knowledge:
 
-- Programming Language: C | Java | JavaScript;
+- Programming Language: C# | Java | JavaScript | SQL;
 - Markup Language : HTML5;
 - Style Language: CSS3;
-- Design Tool: Adobe XD, Figma;
-- SQL Language
-
+- Design Tool: Figma;
+- 
  ##
  
 <div align="center">
