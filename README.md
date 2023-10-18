@@ -1,7 +1,7 @@
 ### Hello, welcome to my Github profile 🙋‍♂️
 
 
-My name is Isaque, I'm a student from analysis and system development and Intern IT at Jabil. I´m 23 years old and I live in the state of São Paulo, Brazil. I´m a technology lover and here on my profile you will find small projects developed with some languages that I have technical skills.
+My name is Isaque Barbosa, I'm a student from analysis and system development and Intern IT at Jabil. I´m 23 years old and I live in the state of São Paulo, Brazil. I´m a technology lover and here on my profile you will find small projects developed with some languages that I have technical skills.
 
 ### Knowledge:
 
