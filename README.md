@@ -13,8 +13,8 @@ My name is Isaque Barbosa, I'm a student from analysis and system development an
  
 <div align="center">
   <a href="https://github.com/IsaqueBar21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquebar21&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebar21&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquebar21&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquebar21&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
  
   ##
